@@ -51,13 +51,13 @@ The platform is focused on being **user-friendly** for customers and efficient f
 5. **Order Confirmation**: Track orders in real time.
 6. **Post-Purchase**: Leave reviews and initiate returns if necessary.
 
-Vendor Onboarding
-1.Registration: Create an account by providing business details and completing email verification.
-2.Profile Setup: Add business name, address, contact information, bank details, and branding elements.
-3.Product Upload: List products with descriptions, images, categories, pricing, and discounts.
-4.Dashboard Overview: Familiarize yourself with sales analytics, order tracking, and customer feedback tools.
-5.Logistics Integration: Configure shipping options and integrate with logistics partners for real-time tracking.
-6.Trial Run (Optional): Test the system with mock products, orders, and workflows.
-7.Approval & Launch: Get profile and product listings approved to go live on the platform.
-8.Ongoing Support: Access tutorials, FAQs, and live support for assistance.
+### **Vendor Onboarding**
+1. **Registration**: Create an account by providing business details and completing email verification.
+2.**Profile Setup**: Add business name, address, contact information, bank details, and branding elements.
+3.**Product Upload**: List products with descriptions, images, categories, pricing, and discounts.
+4.**Dashboard Overview**: Familiarize yourself with sales analytics, order tracking, and customer feedback tools.
+5.**Logistics Integration**: Configure shipping options and integrate with logistics partners for real-time tracking.
+6.**Trial Run (Optional)**: Test the system with mock products, orders, and workflows.
+7.**Approval & Launch**: Get profile and product listings approved to go live on the platform.
+8.**Ongoing Support**: Access tutorials, FAQs, and live support for assistance.
 
